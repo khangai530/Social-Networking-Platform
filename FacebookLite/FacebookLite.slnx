@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Facebook.ConsoleApp/Facebook.ConsoleApp.csproj" />
+  <Project Path="Facebook.Core/Facebook.Core.csproj" />
+</Solution>

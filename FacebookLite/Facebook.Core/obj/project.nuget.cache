@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJ2+UfqfnuQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aakha\\Desktop\\FacebookLite\\Facebook.Core\\Facebook.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aakha\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\aakha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\aakha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

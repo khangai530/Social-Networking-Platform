@@ -1,0 +1,11 @@
+C:\Users\aakha\Desktop\FacebookLite\Facebook.Core\bin\Debug\net8.0\Facebook.Core.deps.json
+C:\Users\aakha\Desktop\FacebookLite\Facebook.Core\bin\Debug\net8.0\Facebook.Core.dll
+C:\Users\aakha\Desktop\FacebookLite\Facebook.Core\bin\Debug\net8.0\Facebook.Core.pdb
+C:\Users\aakha\Desktop\FacebookLite\Facebook.Core\obj\Debug\net8.0\Facebook.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakha\Desktop\FacebookLite\Facebook.Core\obj\Debug\net8.0\Facebook.Core.AssemblyInfoInputs.cache
+C:\Users\aakha\Desktop\FacebookLite\Facebook.Core\obj\Debug\net8.0\Facebook.Core.AssemblyInfo.cs
+C:\Users\aakha\Desktop\FacebookLite\Facebook.Core\obj\Debug\net8.0\Facebook.Core.csproj.CoreCompileInputs.cache
+C:\Users\aakha\Desktop\FacebookLite\Facebook.Core\obj\Debug\net8.0\Facebook.Core.dll
+C:\Users\aakha\Desktop\FacebookLite\Facebook.Core\obj\Debug\net8.0\refint\Facebook.Core.dll
+C:\Users\aakha\Desktop\FacebookLite\Facebook.Core\obj\Debug\net8.0\Facebook.Core.pdb
+C:\Users\aakha\Desktop\FacebookLite\Facebook.Core\obj\Debug\net8.0\ref\Facebook.Core.dll
